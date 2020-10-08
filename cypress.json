@@ -1,0 +1,12 @@
+{
+  "pageLoadTimeout": 50000,
+  "video": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 50000,
+  "requestTimeout": 50000,
+  "responseTimeout": 50000,
+  "numTestsKeptInMemory": 1,
+  "projectId": "ujmcag"
+
+}
