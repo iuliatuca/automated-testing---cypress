@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cypress": "cypress open",
-    "test": "cypress run --spec cypress/integration/test/**/* --browser chrome",
+    "test": "cypress run --spec cypress/integration/test*/**/* --browser chrome",
     "record": "cypress run --record --key 91be0694-ea48-4af7-a4b1-2d3992e9c8f3"
   },
   "author": "",
